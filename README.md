@@ -1,1 +1,1 @@
-# KAJUL-STRORE-PANEL
+# kajul-store-panel
